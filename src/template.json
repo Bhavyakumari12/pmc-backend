@@ -1,0 +1,6 @@
+[
+  { "id": 1, "layout_code": "1:1", "section_count": 2 },
+  { "id": 2, "layout_code": "1:2", "section_count": 3 },
+  { "id": 3, "layout_code": "1:1:1", "section_count": 3 },
+  { "id": 4, "layout_code": "1:2:4", "section_count": 8 }
+]

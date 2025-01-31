@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Product A", "type": "Category 1" },
+  { "id": 2, "name": "Product B", "type": "Category 1" },
+  { "id": 3, "name": "Product C", "type": "Category 2" },
+  { "id": 4, "name": "Product D", "type": "Category 2" },
+  { "id": 5, "name": "Product E", "type": "Category 1" }
+]
