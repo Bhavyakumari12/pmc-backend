@@ -1,8 +1,9 @@
-import express from 'express';               
-import { assignProductsToTemplate } from '../controller/templateController.js'; 
+import express from "express";
+import { getTemplates, getTemplatesById } from "../controller/templateController.js";
 
 const router = express.Router();
 
-router.get('/assign-products', assignProductsToTemplate);
+router.get("/", getTemplates);
+router.get("/:id", getTemplatesById);
 
-export default router; 
+export default router;

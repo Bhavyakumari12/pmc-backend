@@ -1,7 +1,98 @@
 [
-  { "id": 1, "name": "Product A", "type": "Category 1" },
-  { "id": 2, "name": "Product B", "type": "Category 1" },
-  { "id": 3, "name": "Product C", "type": "Category 2" },
-  { "id": 4, "name": "Product D", "type": "Category 2" },
-  { "id": 5, "name": "Product E", "type": "Category 1" }
+  {
+    "id": 1,
+    "name": "Product A",
+    "type": "Category 1",
+    "templateId": 1
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "type": "Category 1",
+    "templateId": 1
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "type": "Category 2",
+    "templateId": 2
+  },
+  {
+    "id": 4,
+    "name": "Product D",
+    "type": "Category 2",
+    "templateId": 2
+  },
+  {
+    "id": 5,
+    "name": "Product E",
+    "type": "Category 2",
+    "templateId": 2
+  },
+  {
+    "id": 6,
+    "name": "Product F",
+    "type": "Category 3",
+    "templateId": 3
+  },
+  {
+    "id": 7,
+    "name": "Product G",
+    "type": "Category 3",
+    "templateId": 3
+  },
+  {
+    "id": 8,
+    "name": "Product H",
+    "type": "Category 3",
+    "templateId": 3
+  },
+  {
+    "id": 9,
+    "name": "Product I",
+    "type": "Category 4",
+    "templateId": 4
+  },
+  {
+    "id": 10,
+    "name": "Product J",
+    "type": "Category 4",
+    "templateId": 4
+  },
+  {
+    "id": 11,
+    "name": "Product K",
+    "type": "Category 4",
+    "templateId": 4
+  },
+  {
+    "id": 12,
+    "name": "Product L",
+    "type": "Category 4",
+    "templateId": 4
+  },
+  {
+    "id": 13,
+    "name": "Product M",
+    "type": "Category 4",
+    "templateId": 4
+  },
+  {
+    "id": 14,
+    "name": "Product O",
+    "type": "Category 4",
+    "templateId": 4
+  },
+  {
+    "id": 15,
+    "name": "Product P",
+    "type": "Category 4",
+    "templateId": 4
+  },
+  {
+    "id": 16,
+    "name": "Product Q",
+    "type": "Category 4",
+    "templateId": 4
+  }
 ]
